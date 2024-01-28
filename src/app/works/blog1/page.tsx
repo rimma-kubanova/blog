@@ -21,7 +21,8 @@ export default function Portfolio() {
           <div className="px-48 mx-48 text-start">
           <h2 className="text-black text-6xl font-bold text-center pt-20">Visual Storytelling: Analysis of Hwasa&apos;s &apos;Maria&apos; Music Video</h2>
             <h6 className="text-xl text-center pt-6 pb-20">by Rimma Kubanova </h6>
-            <h6 className="text-2xl pt-12">In this blog post, I will analyze the multimodal text in the form of music song "Maria" by Hwasa. I will aim to explore the design choices made in this music clip through concepts introduced in the chapters on "Semiotics," "Form," and "Iconography" of Visual Culture.</h6>
+            <h6 className="text-2xl pb-6 pt-12">In this blog post, I will analyze the multimodal text in the form of music song "Maria" by Hwasa. I will aim to explore the design choices made in this music clip through concepts introduced in the chapters on "Semiotics," "Form," and "Iconography" of Visual Culture.</h6>
+            <a className="text-center text-2xl py-12 underline" href="https://www.youtube.com/watch?v=tDukIfFzX18">https://www.youtube.com/watch?v=tDukIfFzX18</a>
             <h6 className="text-2xl pt-6">"Maria" is a single released by Hwasa, depicting her journey of self-discovery as a K-pop artist. For further discussion, it&apos;s crucial to understand the context that motivated the artist to produce the film in the way it is.</h6>
             <h6 className="text-2xl py-6"><span className="font-bold">Ahn Hye-jin</span>, also known as <span className="font-bold">Hwasa</span>, is a Korean singer and a member of the group MAMAMOO. In the realm of K-pop, she is famous for defying Korea&apos;s strict beauty standards. Her unconventional body type for a K-pop singer, along with her tanned skin (in contrast to the preference for whitewashed skin), and her obstinate nature, have, however, made her a subject of significant criticism and judgment. 
 </h6>
